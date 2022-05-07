@@ -13,8 +13,7 @@ body {
 }
 
 .note:hover {
-	visibility: hidden;
-
+	display: none;
 }
 .note {
 	width: 4%;
