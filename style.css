@@ -56,7 +56,19 @@ body {
 	top: 85%;
 	transform: rotate(-40deg);
 }
+#first:hover~#mess1{
+    display: block;
+}
 
+
+#second:hover~#mess2{
+    display: block;
+}
+
+
+#third:hover~#mess3{
+    display: block;
+}
 #gif1 {
 
 	margin-left: auto;
